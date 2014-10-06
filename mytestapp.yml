@@ -1,0 +1,9 @@
+---
+spring:
+	profiles: test
+
+service:
+	definition: hello world
+	someproperty: this is something...
+
+dog: bolter		
