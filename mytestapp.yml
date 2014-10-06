@@ -1,9 +1,9 @@
 ---
 spring:
-	profiles: test
+ profiles: test
 
 service:
-	definition: hello world
-	someproperty: this is something...
+ definition: hello world
+ someproperty: this is something...
 
-dog: bolter		
+dog: bolter	
